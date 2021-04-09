@@ -1,6 +1,10 @@
 # Flash Card
 A react app for Geography flashcards about countries+capitals.
 
+Works with REST Countries API in the backend.
+
+This project was a part of 30 days with React Series by Asabeneh.
+
 Deployed using netlify.
 
 ## Demo
