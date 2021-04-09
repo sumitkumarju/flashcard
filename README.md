@@ -1,4 +1,4 @@
-# Covid_Tracker
+# Flash Card
 A react app for Geography flashcards about countries+capitals.
 
 Deployed using netlify.
